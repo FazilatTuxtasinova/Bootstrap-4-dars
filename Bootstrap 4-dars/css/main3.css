@@ -1,0 +1,15 @@
+body{
+    background-color: hotpink;
+    margin-top: 50px;
+}
+.top1{
+    position: relative;
+    top: -40px;
+}
+.top2{
+    position: relative;
+    top: -40px;
+}
+.z{
+    color: #ca365f;
+}

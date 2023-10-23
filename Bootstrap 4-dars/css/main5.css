@@ -1,0 +1,42 @@
+.btn-group{
+    background-color: red;
+    position: relative;
+    top: 22px;
+    left: 600px;
+}
+.btn{
+    color: white;
+    font-size: 10px;
+}
+h6{
+    position: relative;
+    left: 510px;
+    top: 10px;
+}
+.jumbotron{
+    width: 800px;
+    height: 450px;
+    position: relative;
+    top: 50px;
+    left: 70px;
+    background-color: deepskyblue;
+}
+h2{
+    color: white;
+    position: relative;
+    left: 120px;
+}
+p{
+    position: relative;
+    left: -10px;
+    top: 40px;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
+.btn2{
+    position: relative;
+    top: 120px;
+    left: 300px;
+    border: 2px solid white !important;
+}
